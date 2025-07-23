@@ -2,8 +2,6 @@
 
 This is a Node.js + PostgreSQL web app I built as part of **The Complete Web Development Bootcamp** by [The App Brewery](https://www.appbrewery.co/). It helped me learn how to work with **Express**, **PostgreSQL**, **EJS**, and RESTful routing — all while building something real and visual!
 
-Track the countries you’ve visited — and see how your adventures stack up!
-This is a full-stack web app built with Node.js, Express, PostgreSQL, and EJS, created as part of The Complete Web Development Bootcamp by The App Brewery.
 
 ## 📚 What It Does
 
